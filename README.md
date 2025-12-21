@@ -11,18 +11,6 @@ This repository contains all my daily logs, assignments, and projects. My goal i
 - **Database:** MongoDB, Firebase
 - **AI & Tools:** Gen AI Integration, VS Code, Git/GitHub
 
-## 📅 Daily Learning Log
-
-| Day | Date | Topic | Key Learnings | Links |
-| :--- | :--- | :--- | :--- | :--- |
-| Day 1 | 2025-12-20 | Introduction | Kickstarted Cohort 2.0 and repo setup | [Code](./) |
-| Day 2 | 2025-12-21 | Ongoing... | Updates coming soon | [Code](./) |
-
-## 📁 Folder Structure
-- `Assignments/`: Specific tasks and homework given in class.
-- `Daily-Logs/`: Detailed notes for each day.
-- `Projects/`: Major full-stack and AI projects.
-- `Resources/`: Helpful links and documentation.
 
 ---
 *Happy Coding! 💻✨*
